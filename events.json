@@ -2,21 +2,21 @@
     {
         "id": "1",
         "eventname": "Sample Event 1",
-        "imgurl": "https://raw.githubusercontent.com/iamsj7/photo1.jpg"
+        "imgurl": "https://raw.githubusercontent.com/iamsj7/jabreencastle/master/images/photo1.jpeg"
     },
     {
         "id": "2",
         "eventname": "Sample Event 2",
-        "imgurl": "https://raw.githubusercontent.com/iamsj7/photo2.jpg"
+        "imgurl": "https://raw.githubusercontent.com/iamsj7/jabreencastle/master/images/photo2.jpeg"
     },
     {
         "id": "3",
         "eventname": "Sample Event 3",
-        "imgurl": "https://raw.githubusercontent.com/iamsj7/photo3.jpg"
+        "imgurl": "https://raw.githubusercontent.com/iamsj7/jabreencastle/master/images/photo3.jpeg"
     },
     {
         "id": "4",
         "eventname": "Sample Event 4",
-        "imgurl": "https://raw.githubusercontent.com/iamsj7/photo4.jpg"
+        "imgurl": "https://raw.githubusercontent.com/iamsj7/jabreencastle/master/images/photo4.jpeg"
     }
 ]
