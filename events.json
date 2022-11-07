@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "eventname": "Sample Event 1",
+        "imgurl": "https://raw.githubusercontent.com/iamsj7/photo1.jpg"
+    },
+    {
+        "id": "2",
+        "eventname": "Sample Event 2",
+        "imgurl": "https://raw.githubusercontent.com/iamsj7/photo2.jpg"
+    },
+    {
+        "id": "3",
+        "eventname": "Sample Event 3",
+        "imgurl": "https://raw.githubusercontent.com/iamsj7/photo3.jpg"
+    },
+    {
+        "id": "4",
+        "eventname": "Sample Event 4",
+        "imgurl": "https://raw.githubusercontent.com/iamsj7/photo4.jpg"
+    }
+]
